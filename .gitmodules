@@ -1,0 +1,12 @@
+[submodule "hulk"]
+	path = hulk
+	url = git@github.com:HackEicon/hulk.git
+[submodule "batman"]
+	path = batman
+	url = git@github.com:HackEicon/batman.git
+[submodule "ironman"]
+	path = ironman
+	url = git@github.com:HackEicon/ironman.git
+[submodule "thor"]
+	path = thor
+	url = git@github.com:HackEicon/thor.git
