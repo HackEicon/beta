@@ -10,3 +10,6 @@
 [submodule "thor"]
 	path = thor
 	url = git@github.com:HackEicon/thor.git
+[submodule "superman"]
+	path = superman
+	url = git@github.com:HackEicon/superman.git
